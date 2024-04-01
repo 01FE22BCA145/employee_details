@@ -6,6 +6,6 @@ public class Bonus {
     public void display() {
         System.out.println("Bonus " + Bonus);
         total = Salary + Bonus;
-        System.out.println("Total salary with bonus " + total);
+        System.out.println("Total salary with bonus  is " + total);
     }
 }
